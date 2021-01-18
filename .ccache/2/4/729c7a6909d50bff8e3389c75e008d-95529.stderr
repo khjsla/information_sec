@@ -1,0 +1,25 @@
+gcm128.c: In function ‘CRYPTO_gcm128_setiv’:
+gcm128.c:813:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:821:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c: In function ‘CRYPTO_gcm128_encrypt’:
+gcm128.c:916:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:950:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:972:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1007:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1025:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c: In function ‘CRYPTO_gcm128_decrypt’:
+gcm128.c:1069:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1106:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1126:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1162:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1183:5: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c: In function ‘CRYPTO_gcm128_encrypt_ctr32’:
+gcm128.c:1228:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1250:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1265:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1285:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c: In function ‘CRYPTO_gcm128_decrypt_ctr32’:
+gcm128.c:1327:3: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1352:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1378:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+gcm128.c:1389:4: warning: dereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]

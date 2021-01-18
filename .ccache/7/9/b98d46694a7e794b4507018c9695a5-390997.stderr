@@ -1,0 +1,2 @@
+s3_srvr.c: In function ‘print_server_priv_key’:
+s3_srvr.c:188:4: warning: return from incompatible pointer type [enabled by default]

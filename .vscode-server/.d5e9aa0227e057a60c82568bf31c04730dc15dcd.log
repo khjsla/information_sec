@@ -1,0 +1,2 @@
+/home/sec11/12163291/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node: /lib64/libstdc++.so.6: version `GLIBCXX_3.4.18' not found (required by /home/sec11/12163291/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node)
+/home/sec11/12163291/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node: /lib64/libc.so.6: version `GLIBC_2.17' not found (required by /home/sec11/12163291/.vscode-server/bin/d5e9aa0227e057a60c82568bf31c04730dc15dcd/node)
